@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blog-post-ag-grid-api-access-with-hooks/static/css/main.aae93fe2.chunk.css",
+    "main.js": "/blog-post-ag-grid-api-access-with-hooks/static/js/main.42e30406.chunk.js",
+    "main.js.map": "/blog-post-ag-grid-api-access-with-hooks/static/js/main.42e30406.chunk.js.map",
+    "runtime-main.js": "/blog-post-ag-grid-api-access-with-hooks/static/js/runtime-main.51fa7898.js",
+    "runtime-main.js.map": "/blog-post-ag-grid-api-access-with-hooks/static/js/runtime-main.51fa7898.js.map",
+    "static/css/2.ca79aa8d.chunk.css": "/blog-post-ag-grid-api-access-with-hooks/static/css/2.ca79aa8d.chunk.css",
+    "static/js/2.c37eadec.chunk.js": "/blog-post-ag-grid-api-access-with-hooks/static/js/2.c37eadec.chunk.js",
+    "static/js/2.c37eadec.chunk.js.map": "/blog-post-ag-grid-api-access-with-hooks/static/js/2.c37eadec.chunk.js.map",
+    "index.html": "/blog-post-ag-grid-api-access-with-hooks/index.html",
+    "precache-manifest.40a91e4de474a9b6f455f22ca5113c5f.js": "/blog-post-ag-grid-api-access-with-hooks/precache-manifest.40a91e4de474a9b6f455f22ca5113c5f.js",
+    "service-worker.js": "/blog-post-ag-grid-api-access-with-hooks/service-worker.js",
+    "static/css/2.ca79aa8d.chunk.css.map": "/blog-post-ag-grid-api-access-with-hooks/static/css/2.ca79aa8d.chunk.css.map",
+    "static/css/main.aae93fe2.chunk.css.map": "/blog-post-ag-grid-api-access-with-hooks/static/css/main.aae93fe2.chunk.css.map",
+    "static/js/2.c37eadec.chunk.js.LICENSE.txt": "/blog-post-ag-grid-api-access-with-hooks/static/js/2.c37eadec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51fa7898.js",
+    "static/css/2.ca79aa8d.chunk.css",
+    "static/js/2.c37eadec.chunk.js",
+    "static/css/main.aae93fe2.chunk.css",
+    "static/js/main.42e30406.chunk.js"
+  ]
+}
