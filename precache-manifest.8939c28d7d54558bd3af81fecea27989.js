@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0433cc8f84d8f7af79d1a40bcb52af9e",
+    "revision": "a9a0068996c6b53282fc58199bc970c2",
     "url": "/blog-post-ag-grid-api-access-with-hooks/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog-post-ag-grid-api-access-with-hooks/static/css/2.ca79aa8d.chunk.css"
   },
   {
-    "revision": "5b69a9819a3b4cbc4f91",
-    "url": "/blog-post-ag-grid-api-access-with-hooks/static/css/main.aae93fe2.chunk.css"
+    "revision": "e3184e9773165179bfe5",
+    "url": "/blog-post-ag-grid-api-access-with-hooks/static/css/main.6e1ffe6a.chunk.css"
   },
   {
     "revision": "3961a0342d4d5bdafd10",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog-post-ag-grid-api-access-with-hooks/static/js/2.c37eadec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b69a9819a3b4cbc4f91",
+    "revision": "e3184e9773165179bfe5",
     "url": "/blog-post-ag-grid-api-access-with-hooks/static/js/main.42e30406.chunk.js"
   },
   {
